@@ -15,8 +15,10 @@ A task or activity description.
 ## Output Format
 - **Focused time:** the realistic range if fully focused (e.g., "30-45 min")
 - **With breaks:** adds ~10 min per 30 min of focused work
+- **Context-switching cost:** "Add 15 min if you're switching from something else"
 - **ADHD-adjusted note:** accounts for getting-started friction, transition time, and hyperfocus risk
 - **Energy level:** low / medium / high cognitive load
+- **Best time to do it:** "Peak focus task — tackle it in the morning if possible" or "Low-stakes — good for an afternoon slump"
 - **Relatable comparison:** "About the length of a TV episode" or "Roughly two songs"
 
 ## Detail Levels

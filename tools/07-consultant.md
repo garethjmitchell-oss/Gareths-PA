@@ -12,9 +12,13 @@ Decision paralysis is brutal with ADHD. The brain gets stuck in an infinite loop
 ## Input
 A decision the user is struggling with. Can be anything from "should I take this job?" to "what should I have for dinner?"
 
+## RSD Check
+If the user seems to be avoiding the decision out of fear of getting it wrong, name it before proceeding: "Sounds like part of you is worried about making the wrong call — that's very normal for ADHD brains. Let's just lay it out and see what's actually there."
+
 ## Output Format
-- **Pros** (bulleted, max 5)
-- **Cons** (bulleted, max 5)
+- **Gut check first:** "Before the analysis — what does your gut say?" (one line, then proceed regardless)
+- **✅ Pros** (bulleted, max 5)
+- **❌ Cons** (bulleted, max 5)
 - **Bottom line:** "If it were me, I'd go with X because..." — ALWAYS give a recommendation
 - Tone is gentle and non-pushy. This is a suggestion, not a directive.
 

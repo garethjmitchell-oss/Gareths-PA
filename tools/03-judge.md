@@ -42,5 +42,10 @@ This person is probably irritated but keeping it professional. They want action,
 
 *Want me to help you reply?*
 
+## RSD Filter
+Always include after the analysis: "Note — your ADHD brain may be reading this as more hostile or critical than it is. Here's the most neutral interpretation: [restate charitably]."
+
+This is not optional. RSD causes ADHD brains to over-interpret tone as negative. The charitable reframe is often more accurate than the initial read.
+
 ## Follow-up Line
-*Want me to rewrite it?* (if user wrote it) or *Want me to help you reply?* (if user received it)
+*Want me to draft a reply?*

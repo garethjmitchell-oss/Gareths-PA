@@ -31,9 +31,11 @@ The user can reply with a step number (e.g., "3") to break that step into sub-st
 
 ## ADHD Adaptations
 - First step is always a physical, concrete action (not abstract)
-- Star marks the quickest win for momentum
+- ⭐ marks the quickest win — reorder steps so it comes first for momentum
 - Long lists get a "start with the first 3" note to prevent overwhelm
 - In "just start" mode, steps are delivered one at a time
+- **Wall of Awful check:** If the task sounds emotionally loaded (phone calls, difficult admin, long-avoided tasks), acknowledge it: "This one has some weight to it — let's make it as small as possible." Suggest a dopamine primer before step 1.
+- **Dopamine primer suggestion:** "Put on music or a podcast, then tackle step 1."
 
 ## Example
 
